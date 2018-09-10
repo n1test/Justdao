@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24764efe-be1d-4205-bea4-688d2f7d0773" name="Default" comment="去掉了皮肤 这个皮肤有点问题 而且不好看">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/images/data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/images/database.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/images/drive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/images/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/images/folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/images/main.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/images/table.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/model/DatabaseTableModel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/model/DatabaseTreeCellRenderer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/model/ExtendedDefaultTreeCellRenderer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/model/ExtendedTableCellRenderer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/model/ExtendedTreeCellRenderer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/model/ResultSetTableModel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/model/RightTableModel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/AddDialog$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/AddDialog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/Cknife.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/ConfigDialog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/MainFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/MessageDialog$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/MessageDialog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/SetDBDialog$InitDB.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/SetDBDialog$SelectItem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/SetDBDialog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/TabFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/config/panel/ProxyPanel$ButtonAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/config/panel/ProxyPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/config/panel/RequestPanel$ButtonAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/config/panel/RequestPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/DBPopMenu$DBMenu.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/DBPopMenu$DoAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/DBPopMenu$TBmenu.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/DBPopMenu.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/FileManagerPopMenu$KeyAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/FileManagerPopMenu$MenuAction$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/FileManagerPopMenu$MenuAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/FileManagerPopMenu$MouseAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/FileManagerPopMenu$ReadAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/FileManagerPopMenu$SelectedMouseAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/FileManagerPopMenu$Status.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/FileManagerPopMenu$deleteThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/FileManagerPopMenu$uploadThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/FileManagerPopMenu.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/ListPopMenu$MenuAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/ListPopMenu$MouseAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/ListPopMenu$SelectedMouseAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/ListPopMenu$SkinAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/ListPopMenu.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/ShellPopMenu$MenuAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/ShellPopMenu$MouseL.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/menu/ShellPopMenu.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/DatabasePanel$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/DatabasePanel$DoAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/DatabasePanel$EnterListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/DatabasePanel$Exec.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/DatabasePanel$OpenDBDialog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/DatabasePanel$SelectItem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/DatabasePanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/FileManagerPanel$TreeAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/FileManagerPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/HeadPanel$CloseAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/HeadPanel$MouseAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/HeadPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/ListPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/ShellPanel$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/ShellPanel$textareaFocus.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/ShellPanel$textareaKey.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/ShellPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/TextPanel$TextAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/ui/panel/TextPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/util/BasicAuthenticator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/util/Common.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/util/Configuration.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/util/DataBase.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/util/DbDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/util/FileManager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/util/GBC.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/util/MyHostnameVerifier.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/util/MyX509TrustManager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/util/NodeData$DataType.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/util/NodeData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/util/OrderedProperties.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/util/Request.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/util/Safe.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/util/Shell.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/com/ms509/util/TreeMethod.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/cknife.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cknife-master.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cknife-master/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/ms509/util/函数_初始化配置文件.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/Cknife_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/ms509/ui/AboutDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/ms509/util/InitConfig.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/model/DatabaseTableModel.java" afterPath="$PROJECT_DIR$/src/com/ms509/model/DatabaseTableModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/model/DatabaseTreeCellRenderer.java" afterPath="$PROJECT_DIR$/src/com/ms509/model/DatabaseTreeCellRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/model/ExtendedDefaultTreeCellRenderer.java" afterPath="$PROJECT_DIR$/src/com/ms509/model/ExtendedDefaultTreeCellRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/model/ExtendedTableCellRenderer.java" afterPath="$PROJECT_DIR$/src/com/ms509/model/ExtendedTableCellRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/model/ExtendedTreeCellRenderer.java" afterPath="$PROJECT_DIR$/src/com/ms509/model/ExtendedTreeCellRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/model/ResultSetTableModel.java" afterPath="$PROJECT_DIR$/src/com/ms509/model/ResultSetTableModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/model/RightTableModel.java" afterPath="$PROJECT_DIR$/src/com/ms509/model/RightTableModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/ui/AddDialog.java" afterPath="$PROJECT_DIR$/src/com/ms509/ui/AddDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/ui/Cknife.java" afterPath="$PROJECT_DIR$/src/com/ms509/ui/Cknife.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/ui/MainFrame.java" afterPath="$PROJECT_DIR$/src/com/ms509/ui/MainFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/ui/MessageDialog.java" afterPath="$PROJECT_DIR$/src/com/ms509/ui/MessageDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/ui/SetDBDialog.java" afterPath="$PROJECT_DIR$/src/com/ms509/ui/SetDBDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/ui/config/panel/ProxyPanel.java" afterPath="$PROJECT_DIR$/src/com/ms509/ui/config/panel/ProxyPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/ui/config/panel/RequestPanel.java" afterPath="$PROJECT_DIR$/src/com/ms509/ui/config/panel/RequestPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/ui/menu/DBPopMenu.java" afterPath="$PROJECT_DIR$/src/com/ms509/ui/menu/DBPopMenu.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/ui/menu/FileManagerPopMenu.java" afterPath="$PROJECT_DIR$/src/com/ms509/ui/menu/FileManagerPopMenu.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/ui/menu/ShellPopMenu.java" afterPath="$PROJECT_DIR$/src/com/ms509/ui/menu/ShellPopMenu.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/ui/panel/DatabasePanel.java" afterPath="$PROJECT_DIR$/src/com/ms509/ui/panel/DatabasePanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/ui/panel/FileManagerPanel.java" afterPath="$PROJECT_DIR$/src/com/ms509/ui/panel/FileManagerPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/ui/panel/ListPanel.java" afterPath="$PROJECT_DIR$/src/com/ms509/ui/panel/ListPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/ui/panel/ShellPanel.java" afterPath="$PROJECT_DIR$/src/com/ms509/ui/panel/ShellPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/ui/panel/TextPanel.java" afterPath="$PROJECT_DIR$/src/com/ms509/ui/panel/TextPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/util/Common.java" afterPath="$PROJECT_DIR$/src/com/ms509/util/Common.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/util/Configuration.java" afterPath="$PROJECT_DIR$/src/com/ms509/util/Configuration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/util/DataBase.java" afterPath="$PROJECT_DIR$/src/com/ms509/util/DataBase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/util/DbDao.java" afterPath="$PROJECT_DIR$/src/com/ms509/util/DbDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/util/FileManager.java" afterPath="$PROJECT_DIR$/src/com/ms509/util/FileManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/util/GBC.java" afterPath="$PROJECT_DIR$/src/com/ms509/util/GBC.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/util/NodeData.java" afterPath="$PROJECT_DIR$/src/com/ms509/util/NodeData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/util/Request.java" afterPath="$PROJECT_DIR$/src/com/ms509/util/Request.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/util/Shell.java" afterPath="$PROJECT_DIR$/src/com/ms509/util/Shell.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ms509/util/TreeMethod.java" afterPath="$PROJECT_DIR$/src/com/ms509/util/TreeMethod.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TabFrame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/TabFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-197">
+              <caret line="40" column="39" lean-forward="false" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProxyPanel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/config/panel/ProxyPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2430">
+              <caret line="115" column="51" lean-forward="false" selection-start-line="115" selection-start-column="51" selection-end-line="115" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RequestPanel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/config/panel/RequestPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-270">
+              <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBPopMenu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/menu/DBPopMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3154">
+              <caret line="346" column="28" lean-forward="true" selection-start-line="346" selection-start-column="28" selection-end-line="346" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileManagerPopMenu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/menu/FileManagerPopMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-13846">
+              <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListPopMenu.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/menu/ListPopMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="110" column="46" lean-forward="true" selection-start-line="110" selection-start-column="46" selection-end-line="110" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExtendedTreeCellRenderer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ms509/model/ExtendedTreeCellRenderer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResultSetTableModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ms509/model/ResultSetTableModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RightTableModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ms509/model/RightTableModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-513">
+              <caret line="36" column="23" lean-forward="false" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigDialog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/ConfigDialog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-170">
+              <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main</find>
+      <find>checkFile</find>
+      <find>ExtendedTableCellRenderer</find>
+      <find>代理设置</find>
+      <find>ok</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\check\Cknife-master\src\com\ms509\ui</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/ms509/util/InitConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/util/Configuration.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/ui/Cknife.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/ui/MainFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/util/Common.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/util/DataBase.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/util/DbDao.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/util/Request.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/util/NodeData.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/util/GBC.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/util/FileManager.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/ui/SetDBDialog.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/ui/MessageDialog.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/model/ExtendedDefaultTreeCellRenderer.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/model/ExtendedTreeCellRenderer.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/model/ResultSetTableModel.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/model/RightTableModel.java" />
+        <option value="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/src/com/ms509/ui/config/panel/ProxyPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/ui/config/panel/RequestPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/ui/menu/DBPopMenu.java" />
+        <option value="$PROJECT_DIR$/src/com/ms509/ui/menu/FileManagerPopMenu.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\.m2\repository" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="291" />
+    <option name="y" value="40" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>NonAsciiCharacters</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Cknife-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cknife-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cknife-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cknife-master" type="462c0819:PsiDirectoryNode" />
+              <item name=".settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cknife-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cknife-master" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cknife-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cknife-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cknife-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cknife-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ms509" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cknife-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cknife-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ms509" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cknife-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cknife-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ms509" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="panel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cknife-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cknife-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ms509" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cknife-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cknife-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="SearchEverywhereHistoryKey" value="git&#9;ACTION&#9;Git.Menu" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Cknife">
+    <configuration name="Cknife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ms509.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ms509.ui.Cknife" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Cknife-master" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Cknife" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24764efe-be1d-4205-bea4-688d2f7d0773" name="Default" comment="" />
+      <created>1521079528519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521079528519</updated>
+    </task>
+    <task id="LOCAL-00001" summary="去掉了皮肤 这个皮肤有点问题 而且不好看">
+      <created>1521081029365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521081029365</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="69" y="-8" width="1859" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3301887" sideWeight="0.4913649" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914045" sideWeight="0.5130919" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914045" sideWeight="0.48690808" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19108635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="去掉了皮肤 这个皮肤有点问题 而且不好看" />
+    <option name="LAST_COMMIT_MESSAGE" value="去掉了皮肤 这个皮肤有点问题 而且不好看" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/Cknife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/util/函数_初始化配置文件.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3834">
+          <caret line="142" column="54" lean-forward="false" selection-start-line="142" selection-start-column="54" selection-end-line="142" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/util/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="50" lean-forward="false" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/util/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/util/函数_初始化配置文件.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/Cknife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cknife-master.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/images/main.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="164" column="31" lean-forward="false" selection-start-line="164" selection-start-column="31" selection-end-line="164" selection-end-column="31" />
+          <folding>
+            <element signature="e#5711#5712#0" expanded="false" />
+            <element signature="e#5749#5750#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/util/函数_初始化配置文件.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="142" column="54" lean-forward="false" selection-start-line="142" selection-start-column="54" selection-end-line="142" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="1005" column="19" lean-forward="false" selection-start-line="1005" selection-start-column="19" selection-end-line="1005" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/util/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1242">
+          <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/Cknife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/util/Common.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="101" column="39" lean-forward="false" selection-start-line="101" selection-start-column="39" selection-end-line="101" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/util/DataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="342" column="47" lean-forward="false" selection-start-line="342" selection-start-column="47" selection-end-line="342" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/util/DbDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/util/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="330" column="1" lean-forward="true" selection-start-line="330" selection-start-column="1" selection-end-line="330" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/util/NodeData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/util/GBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="39" column="20" lean-forward="false" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/util/FileManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="31" column="59" lean-forward="false" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/util/BasicAuthenticator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="58" lean-forward="false" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/SetDBDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/MessageDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-783">
+          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/model/DatabaseTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/model/DatabaseTreeCellRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/model/ExtendedDefaultTreeCellRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/model/ExtendedTableCellRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/model/ExtendedTreeCellRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/model/ResultSetTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/model/RightTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513">
+          <caret line="36" column="23" lean-forward="false" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/ConfigDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/util/Safe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/TabFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197">
+          <caret line="40" column="39" lean-forward="false" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cknife.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-792">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/config/panel/ProxyPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2430">
+          <caret line="115" column="51" lean-forward="false" selection-start-line="115" selection-start-column="51" selection-end-line="115" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/config/panel/RequestPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/menu/DBPopMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3154">
+          <caret line="346" column="28" lean-forward="true" selection-start-line="346" selection-start-column="28" selection-end-line="346" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/menu/FileManagerPopMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13846">
+          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ms509/ui/menu/ListPopMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="110" column="46" lean-forward="true" selection-start-line="110" selection-start-column="46" selection-end-line="110" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
